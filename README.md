@@ -2,7 +2,7 @@
 Um aplicativo Android para ajudar os usuários a economizar combustível e monitorar o consumo do veículo.
 
 ## 📱 Descrição
-O Fuel Saver App permite que os usuários registrem e acompanhem o consumo de combustível de seus veículos. O app calcula a média de consumo e fornece dicas para economizar combustível com base nos dados informados.
+O Fuel Saver App permite que os usuários registrem e acompanhem o consumo de combustível de seus veículos.
 
 ## 🔧 Funcionalidades
 
