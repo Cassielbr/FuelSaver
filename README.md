@@ -60,9 +60,6 @@ Siga os passos abaixo para rodar o projeto localmente:
 ## Tela Principal
 ![image](https://github.com/Cassielbr/FuelSaver/blob/master/assets/Principal.png).
 
-exemplo de imagens ![image]()
-
-
 ## 👨‍💻 Desenvolvedores – 
 **Cassiel** - Desenvolvedor - [GitHub](https://github.com/Cassielbr)
 
