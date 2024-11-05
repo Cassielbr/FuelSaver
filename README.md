@@ -9,7 +9,7 @@ O Fuel Saver App permite que os usuários registrem e acompanhem o consumo de co
 - [x] Registro de abastecimentos (quantidade de combustível e valor)
 - [x] Cálculo automático da média de consumo
 - [x] Cálculo de consumo e despesas
-- [x] Interface ntuitiva
+- [x] Interface intuitiva
 - [x] economizar combustível
  
 ## 🚀 Tecnologias Utilizadas
